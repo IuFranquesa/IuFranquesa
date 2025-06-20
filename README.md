@@ -8,7 +8,6 @@ Benvingut/da al meu GitHub! Aquí és on comparteixo els meus projectes i idees.
 - [Sobre mi](#sobre-mi)
 - [Eines i tecnologies](#eines-i-tecnologies)
 - [Contacte](#contacte)
-- [Cita](#cita)
 
 ---
 
