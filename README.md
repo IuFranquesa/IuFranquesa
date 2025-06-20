@@ -4,10 +4,11 @@ Benvingut/da al meu GitHub! Aquí és on comparteixo els meus projectes i idees.
 
 ---
 
-## 🧭 Navegació
-- [Sobre mi](#-sobre-mi)
-- [Eines i tecnologies](#-eines-i-tecnologies)
-- [Contacte](#-contacte)
+# 🧭 Navegació
+- [Sobre mi](#sobre-mi)
+- [Eines i tecnologies](#eines-i-tecnologies)
+- [Contacte](#contacte)
+- [Cita](#cita)
 
 ---
 
