@@ -1,4 +1,4 @@
-# 👋 Hola, sóc l'Iu Franquesa! 
+# 👋 Hola, sóc l'Iu! 
 
 Benvingut/da al meu GitHub! Aquí és on comparteixo els meus projectes i idees. 
 
@@ -12,7 +12,7 @@ Sóc estudiant d'informàtica, i gaudeixo explorant noves tecnologies per comple
 
 ## 🛠️ Eines i tecnologies
 
-- **Llenguatges:** C, C++, Python, Java i Kotlin. 
+- **Llenguatges:** C, C++, Python, Java, Kotlin, PostgreSQL... 
 - **Eines:** Git, VS Code...
 
 ---
@@ -26,18 +26,3 @@ Sóc estudiant d'informàtica, i gaudeixo explorant noves tecnologies per comple
 
 > “Code is the closest thing we have to magic.”  
 > —??? 
-
-<!--
-**IuFranquesa/IuFranquesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
